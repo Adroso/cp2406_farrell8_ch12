@@ -1,11 +1,9 @@
-/*
 public class FixDebugEmployeeIDException extends Exception
 {
-   public FixDebugEmployeeIDException()
+   public FixDebugEmployeeIDException(String s)
    {
       super(s);
    }
 }
 
 
-*/
