@@ -1,4 +1,4 @@
-// An employee ID can't be more than 999
+//  An employee ID can't be more than 999
 // Keep executing until user enters four valid employee IDs
 // This program throws a FixDebugEmployeeIDException
 import javax.swing.*;
